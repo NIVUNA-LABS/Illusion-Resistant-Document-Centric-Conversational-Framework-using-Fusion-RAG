@@ -51,7 +51,7 @@ retrieves and verifies information before generating responses.
 <img width="367" height="137" alt="image" src="https://github.com/user-attachments/assets/b1d16de3-d828-4afd-94f6-3f9f1b43cf65" />
 </p>
 <p align="center">
-  <video src="Fusion Rag Live Demo link.mp4" controls width="700"></video>
+  <video src="assets/Fusion Rag Live Demo link (2).mp4" controls width="700"></video>
 </p>
 
 
